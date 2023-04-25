@@ -1,0 +1,15 @@
+/*aqui tem um codigocolor*/
+.flora{   
+   color: rgb(15, 139, 10);
+}
+.fauna{
+    color: rgb(0, 81, 255);
+}
+.rodape{
+    color: rgb(197, 3, 3);
+    background-color: black;
+
+}
+.arara{
+    width: 20%;
+}
